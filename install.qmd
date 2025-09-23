@@ -34,7 +34,7 @@ To install R on your Mac you need to know the type of processor your Mac uses. T
 2)  From the drop down menu, select *About This Mac*
 3)  In *Overview* you will find the information about your Mac. If you have an *Intel Mac*, you will see the processor row, which has information that includes *Intel*. If you have an M version Mac, you will see chip and M1/M2/M3/M4 etc. in the *Overview* with something like *Apple M1* or *Apple M4 Pro*. 
 
-![](images/mac_pros1.png){width="49%"} ![](images/mac_pros2.png){width="49%"}
+![](images/mac_pros1.png){width="49%" fig-alt="Image showing clicking on apple icon and what menu you see"} ![](images/mac_pros2.png){width="49%" fig-alt="Image showing system information for a mac"}
 
 #### M series Mac
 

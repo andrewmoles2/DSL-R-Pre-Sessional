@@ -30,4 +30,4 @@ This website provides an introduction to the R pre-sessional workshops run by th
 
 For support email the use at Digital.Skills.Lab\@lse.ac.uk or look on our [website](https://info.lse.ac.uk/current-students/digital-skills-lab){target="_blank"}
 
-![](images/DigitalSkillsLab.png){width="25%"} ![](images/r_logo.png){width="12%"}
+![](images/DigitalSkillsLab.png){width="25%" fig-alt="Digital Skills Lab logo"} ![](images/r_logo.png){width="12%" fig-alt="R programming language logo"}
