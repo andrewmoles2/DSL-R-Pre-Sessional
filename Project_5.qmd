@@ -181,6 +181,7 @@ There are a few more minor adjustments to make to finish up our visualisation so
   * Make the fill aesthetic the same as your x axis
   * Manually change the fill scale. The colours used in outcome 2 are: `"#D6AF36", "#A7A7AD", "#A77044", "#333333"`
 - Add a title to the visualisation
+- Add a complete theme to the visual
 
 ### Final task - fill out the survey!
 

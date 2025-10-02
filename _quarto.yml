@@ -44,6 +44,8 @@ website:
             text: 📊 Project 4 - Football data analysis
           - href: Project_5.qmd
             text: 🎓 Project 5 - Visualising Olympics data
+          - href: Project_6.qmd
+            text: 🎓 Project 6 - Data generation and artwork
       - section: "❓ Other information"
         contents: 
           - href: faq.qmd
