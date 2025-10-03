@@ -24,19 +24,19 @@ If you have not done so already, open RStudio!
 ### Mac users
 
 -   Hit command + space and type in `RStudio`
--   If you prefer to look for RStudio in an applications folder (open finder and select Applications on the left panel), you should be looking for this icon: ![](images/rs.png)
+-   If you prefer to look for RStudio in an applications folder (open finder and select Applications on the left panel), you should be looking for this icon: ![](images/rs.png){fig-alt="RStudio icon"}
 
 ### RStudio overview
 
 When RStudio opens you should see a layout with 3 panels, similar to the image below.
 
-![RStudio, image from 2023](images/rstudio.png)
+![RStudio, image from 2023](images/rstudio.png){fig-alt="RStudio basic layout with three panels open"}
 
 The largest panel on the left with the `>` is the console. On the bottom right there is the files/plot panel, and top right is the environment panel.
 
 If your installation of R and RStudio has worked, first RStudio should be open, and second you should see a message in your console panel telling you the version of R you have installed, like the image below.
 
-![R version displayed in RStudio console, image from 2023](images/r-version.png)
+![R version displayed in RStudio console, image from 2023](images/r-version.png){fig-alt="Output that is shown in RStudio console when you open RStudio which shows the version of R"}
 
 There are three ways of running R code: the console, R scripts and R Markdown. In the R workshops we use R scripts, but R markdown can also be used if preferred.  
 
@@ -62,7 +62,7 @@ To open a saved R script: use `File > Open File...`, find the R script file to l
 
 The below image shows an R Script in action. 
 
-![Image of R Script](images/R-script.png){width="90%" fig-align="center"}
+![Image of R Script](images/R-script.png){width="90%" fig-align="center" fig-alt="RStudio layout with script open and code run. Stored variables are shown in the environment panel"}
 
 There are two main ways of running code in an R Script. 
 
@@ -100,7 +100,7 @@ The hash tags show headers, and below them is text.
 
 The grey sections are where you write your code. 
 
-![Image of R Markdown notebook, indicating the text and code sections](images/R-Markdown.png){width="90%" fig-align="center"}
+![Image of R Markdown notebook, indicating the text and code sections](images/R-Markdown.png){width="90%" fig-align="center" fig-alt="R Markdown layout where code cells are shown as grey sections with text around them"}
 
 There are three ways to run code in a code cell. The two ways mentioned in the image (Run and play button), and third is to use `ctrl/command + Enter` to run each line just like you would with an R script.
 

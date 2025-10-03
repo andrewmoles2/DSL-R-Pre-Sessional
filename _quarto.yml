@@ -12,7 +12,9 @@ website:
   favicon: "images/colourful_flora.png"
   sidebar:
     search: true
-    style: "docked"
+    style: docked
+    pinned: true
+    collapse-level: 3
     logo: "images/DigitalSkillsLab.png"
     tools:
       - icon: github
