@@ -126,9 +126,9 @@ plot_data |>
 
 We will be using two csv files provided (`imdb.csv` & `rotten_tom_ratings.csv`). Click the links below to download the data.
 
-{{< downloadthis resources/imdb.csv label='Download imdb csv file' dname=project_7_data1 icon=folder-fill type=success >}}
+{{< downloadthis resources/imdb.csv label='Download imdb csv file' dname=imd icon=folder-fill type=success >}}
 
-{{< downloadthis resources/rotten_tom_ratings.csv label='Download rotten tomatoes csv file' dname=project_7_data2 icon=folder-fill type=success >}}
+{{< downloadthis resources/rotten_tom_ratings.csv label='Download rotten tomatoes csv file' dname=rotten_tom_ratings icon=folder-fill type=success >}}
 
 The datasets are film ratings from [Rotten Tomatoes](https://www.rottentomatoes.com/){target="_blank"} and [IMDB](https://www.imdb.com/){target="_blank"}.
 
