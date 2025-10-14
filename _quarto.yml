@@ -39,15 +39,17 @@ website:
           - href: Project_1.qmd
             text: 💡 Project 1 - Temperature metric converter
           - href: Project_2.qmd
-            text: 💾 Project 2 - Building a weather application
+            text: 🌦️ Project 2 - Building a weather application
           - href: Project_3.qmd
-            text: 🎬 Project 3 - Building a weather application continued
+            text: ⚙️ Project 3 - Building a weather application continued
           - href: Project_4.qmd
-            text: 📊 Project 4 - Football data analysis
+            text: ⚽ Project 4 - Football data analysis 
           - href: Project_5.qmd
-            text: 🎓 Project 5 - Visualising Olympics data
+            text: 📊 Project 5 - Visualising Olympics data
           - href: Project_6.qmd
-            text: 🎓 Project 6 - Data generation and artwork
+            text: 🎨 Project 6 - Data generation and artwork
+          - href: Project_7.qmd
+            text: 🧹 Project 7 - Joins and transformations   
       - section: "❓ Other information"
         contents: 
           - href: faq.qmd
