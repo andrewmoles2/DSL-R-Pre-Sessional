@@ -52,3 +52,10 @@ R, like Python, is a programming language. When you compare it to other software
 -   R is "open-source", which means you do not need to pay for a licence to use. This is massive advantage over software like Tableau or Power BI which are expensive.
 
 -   R isn't just for statistics, or wrangling data. You can write reports, websites, presentations, and dashboards just using R. This flexibility isn't possible in software like SPSS or Excel.
+
+## Are there solutions?
+
+Yes there are solutions. They can be downloaded using the button below. They are a series of script files with multiple approaches to get to the same outcome. 
+
+{{< downloadthis resources/solutions_R.zip label='Download the solutions zip file' dname=solutions_R icon=folder-fill type=success >}}
+

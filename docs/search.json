@@ -59,7 +59,7 @@
     "href": "faq.html",
     "title": "FAQ",
     "section": "",
-    "text": "What is R?\n  Workshops\n  \n  What should I do if I get stuck\n  Why do we use this style of training?\n  \n  R vs Python\n  R vs other software such as Tableau/Excel/Power Bi/Stata/SPSS\nIn this page we list some of the most frequently asked questions about R, the workshops, or other more general topics.",
+    "text": "What is R?\n  Workshops\n  \n  What should I do if I get stuck\n  Why do we use this style of training?\n  \n  R vs Python\n  R vs other software such as Tableau/Excel/Power Bi/Stata/SPSS\n  Are there solutions?\nIn this page we list some of the most frequently asked questions about R, the workshops, or other more general topics.",
     "crumbs": [
       "❓ Other information",
       "ℹ️ FAQ"
@@ -104,6 +104,17 @@
     "title": "FAQ",
     "section": "R vs other software such as Tableau/Excel/Power Bi/Stata/SPSS",
     "text": "R vs other software such as Tableau/Excel/Power Bi/Stata/SPSS\nR, like Python, is a programming language. When you compare it to other software such as Excel or Stata, these are applications where functionality is wrapped up in a more user friendly style. The main reasons to use R other application based software are:\n\nIt is better at automation. If you are regularly running and analysis, R will be easier in the long run than software like SPSS or Stata\nR has more flexibility, meaning you can theoretically do almost anything. Application based software like Excel have limitations which can be difficult to overcome. For example, Excel has a row limit.\nR is “open-source”, which means you do not need to pay for a licence to use. This is massive advantage over software like Tableau or Power BI which are expensive.\nR isn’t just for statistics, or wrangling data. You can write reports, websites, presentations, and dashboards just using R. This flexibility isn’t possible in software like SPSS or Excel.",
+    "crumbs": [
+      "❓ Other information",
+      "ℹ️ FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#are-there-solutions",
+    "href": "faq.html#are-there-solutions",
+    "title": "FAQ",
+    "section": "Are there solutions?",
+    "text": "Are there solutions?\nYes there are solutions. They can be downloaded using the button below. They are a series of script files with multiple approaches to get to the same outcome.\n Download the solutions zip file",
     "crumbs": [
       "❓ Other information",
       "ℹ️ FAQ"
