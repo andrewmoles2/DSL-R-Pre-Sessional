@@ -52,6 +52,8 @@ website:
             text: 🧹 Project 7 - Joins and transformations   
       - section: "❓ Other information"
         contents: 
+          - href: AI.qmd
+            text: 🤖 AI
           - href: faq.qmd
             text: ℹ️ FAQ
           - href: example-page.qmd
